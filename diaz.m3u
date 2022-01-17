@@ -2,12 +2,12 @@
 ## PLAYLIST GRATIS JANGAN PERNAH SHARE ULANG ATAU MENJUAL BELIKAN##
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/Indosiar.id.png" group-title="LOKAL",Indosiar
-https://cubmu.nomaden.tv:8279/INDOSIAR/playlist.m3u8
+https://m.vidio.com/live/205-indosiar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="LOKAL",SCTV
-https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8
+https://m.vidio.com/live/204-sctv/embed?autoplay=true&player_only=true&live_chat=false&enable_websocket=false.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 
